@@ -1,0 +1,26 @@
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: inherit;
+}
+
+button {
+  border: 0;
+  background-color: transparent;
+}
+
+.carousel img {
+  width: 100%;
+}
+
+ol, ul {
+	list-style: none;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+}
